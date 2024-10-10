@@ -10,11 +10,11 @@ It includes the neural network model used for fire parameterizations and the scr
 - fig2-7.py: Scripts for generating the main figures from the paper.
 - sample/ : This folder contains files that can be used to generate the main figure 2, using data from the period 2017-2020. Each dataset includes the period 2017-2020, excluding leap years.
 
-File list:
+  File list:
   
-OBS_FRP_2017-2020.gdat: Actual FRP observation data from 2017 to 2020.  
-NN_Pred_2017-2020.gdat: FRP predictions using the FFNN model from 2017 to 2020.  
-FWI_Pred_2017-2020.gdat: FRP predictions using the FWI from 2017 to 2020.  
-frp_mask.gdat: A mask file for FRP data, allowing the use of data from specific regions.  
-sig_test.gdat: A file containing the significance test results between the NN predictions and FWI predictions.  
-Figure2_2017-2020: Visualization results of Figure 2 generated using data from 2017 to 2020.  
+  OBS_FRP_2017-2020.gdat: Actual FRP observation data from 2017 to 2020.  
+  NN_Pred_2017-2020.gdat: FRP predictions using the FFNN model from 2017 to 2020.  
+  FWI_Pred_2017-2020.gdat: FRP predictions using the FWI from 2017 to 2020.  
+  frp_mask.gdat: A mask file for FRP data, allowing the use of data from specific regions.  
+  sig_test.gdat: A file containing the significance test results between the NN predictions and FWI predictions.  
+  Figure2_2017-2020: Visualization results of Figure 2 generated using data from 2017 to 2020.  
