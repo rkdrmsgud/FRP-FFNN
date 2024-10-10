@@ -1,4 +1,4 @@
-# Regionally optimized fire parameterizations using feed-forward neural networks
+## Regionally optimized fire parameterizations using feed-forward neural networks
 
 This repository contains the code and scripts used in the paper "Regionally Optimized Fire Parameterizations using Feed-Forward Neural Networks".
 It includes the neural network model used for fire parameterizations and the scripts to generate the main figures from the study.
